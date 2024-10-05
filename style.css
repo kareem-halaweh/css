@@ -1,0 +1,65 @@
+
+
+div,nav{
+
+    background-color: aliceblue;
+    box-shadow: 0px 0px 15px rgba(0, 0,0, 0.5);
+    border-radius:5px;
+    padding: 2px;
+    margin:20px auto;
+    max-width: 60%;
+}
+nav{
+
+    max-width: 40%;
+
+}
+body{
+    background-color: #D2E0FB;
+}
+a{
+    text-decoration: none;
+    color: cadetblue;
+}
+#about-me{
+    text-align: center;
+}
+ul1{
+    text-align: center;
+    display: flex;
+    justify-content:space-around;
+    margin: auto auto;
+    align-items: center;
+}
+ul2{
+
+    text-align: center;
+    display: flex;
+    margin: auto auto;
+    align-items: center;
+}
+
+li{
+    width:30%;
+    display: inline-block ;
+    margin: auto auto;
+    text-align: center;
+    vertical-align: top;
+    gap: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+#guess{
+    text-align: center;
+}
+#last{
+    text-align: center;
+
+}
+
+#future{
+    text-align: center;
+}
